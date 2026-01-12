@@ -36,7 +36,7 @@ A web application for managing Kubernetes deployments and microservices. Built w
 
 ```bash
 # Clone the repository
-git clone https://github.com/Fnuworsu/kubernetes-orchestration-tool.git
+git clone https://github.com/emmaeng700/KubeFlowX.git
 
 # Navigate to the project directory
 cd kubernetes-orchestration-tool
