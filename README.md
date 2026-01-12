@@ -39,7 +39,7 @@ A web application for managing Kubernetes deployments and microservices. Built w
 git clone https://github.com/emmaeng700/KubeFlowX.git
 
 # Navigate to the project directory
-cd kubernetes-orchestration-tool
+cd KubeFlowX
 
 # Build the application
 mvn clean package
